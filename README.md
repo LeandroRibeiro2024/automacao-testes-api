@@ -7,7 +7,6 @@ Suporte a Testes Automatizados: Com o uso de scripts escritos em JavaScript, é 
 Relatórios Detalhados: Geração de relatórios detalhados que ajudam na análise dos resultados dos testes.
 Integração com CI/CD: Postman pode ser facilmente integrado com ferramentas de CI/CD como Jenkins, permitindo a execução automatizada de testes em pipelines de desenvolvimento contínuo.
 
-
 2 - Use Cases de Teste
 Os casos de uso de teste para a API REST gorest.co.in incluem:
 
